@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack and backend projects**
 
-- 💬 Ask me about ** Node.js, Express.js, MongoDB, Supabase, Competitive Programming, or Tech **
+- 💬 Ask me about **Node.js, Express.js, MongoDB, Supabase, Competitive Programming, or Tech**
 
 - 📫 How to reach me **mohannadaboualfadel@gmail.com**
 
