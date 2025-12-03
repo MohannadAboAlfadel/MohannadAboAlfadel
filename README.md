@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Supabase, AI Integration, and Advanced React Patterns**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 👯 I’m looking to collaborate on **Full Stack and backend projects**
 
 - 💬 Ask me about ** Node.js, Express.js, MongoDB, Supabase, Competitive Programming, or Tech **
 
